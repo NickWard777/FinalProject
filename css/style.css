@@ -1,0 +1,182 @@
+a{
+	color:aqua;
+	font-family: "BPG Boxo", sans-serif;
+	text-shadow:1px 1px darkblue;
+	font-size:20px;
+}
+h1{
+	color:orange;
+	font-family: "BPG Boxo", sans-serif;
+	font-weight:bold;
+	text-shadow:1px 1px darkred;
+	font-size:20px;
+}
+p{
+	color:white;
+	font-family: "BPG Boxo", sans-serif;
+	text-shadow:1px 1px black;
+	font-size:20px;
+}
+.article{
+	color:orange;
+	font-family: "BPG Boxo", sans-serif;
+	font-weight:bold;
+	text-shadow:1px 1px darkred;
+	font-size:20px;
+}
+.article:hover{
+	color:lime;
+  	border-color:aqua;
+  	font-weight:bold;
+}
+.header1{
+	border:5px dotted magenta;
+	padding-top:5px;
+}
+.asd{
+	padding-top:5px;
+}
+.nav-li{
+	margin-top:15px;
+	font-size:20px;
+}
+.nav-ul:after{
+	content:" ";
+	width:5px;
+	height:20px;
+	background:white;
+}
+.bt{
+	border-radius:80px;
+	background-color:aqua;
+	color:darkblue;
+	border:double darkblue 8px;
+	font-size:25px;
+	font-weight:bold;
+	width:100%;
+	height:100px;
+	-webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+}
+.bt:hover {
+  background-color: darkblue;
+  color:lime;
+  border-color:aqua;
+  font-weight:bold;
+}
+.container{
+	margin-top:10px;
+}
+body{
+	background-image:url(https://images2.alphacoders.com/733/733417.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+	
+}
+.social{
+	font-size:25px;
+	color:lime;
+	margin-left:10px;
+}
+.nav-li:after{
+	content:" ";
+	background-color:silver;
+	width:2px;
+	height:16px;
+	margin:0 5px;
+	display:inline-block;
+}
+a:hover{
+  color:lime;
+  border-color:aqua;
+  font-weight:bold;
+}
+.logo{
+	margin-left:-7px;
+}
+.logo1{
+	color:blue;
+	font-size:25px;
+}
+.logo2{
+	color:orange;
+	font-size:25px;
+}
+.logo3{
+	color:red;
+	font-size:25px;
+}
+.logo4{
+	color:magenta;
+	font-size:25px;
+}
+.searchTextAndSearchIcon{
+	float:right;
+	margin-top:15px;
+	margin-right:35px;
+}
+.quantLogo{
+	height:40px;
+	margin-left:40px;
+}
+.section3{
+	margin-top:10px;
+}
+.logos:after{
+	content:" ";
+	background-color:silver;
+	width:2px;
+	height:16px;
+	margin:0 5px;
+	display:inline-block;
+}
+.centerIcons{
+	margin-left:308px;
+}
+.parentLogo{
+	margin-right:40px;
+	margin-top:80px;
+}
+.financialCrysis{
+	width:300px;
+}
+.headersOfParagraphs{
+	margin-top:20px;
+}
+.story{
+	font-size:14px;
+	text-shadow:1px 1px darkgreen;
+	color:lightgreen;
+}
+.stories{
+	padding-top:10px;
+}
+.quantDeveloper{
+	width:260px;
+}
+.article4{
+	margin-left:200px;
+}
+.article2{
+	margin-left:150px;
+}
+.section4{
+	margin-top:50px;
+}
+.section5{
+	margin-top:10px;
+}
+.financialDerivatives{
+	height:180px;
+}
+.mainHeader{
+	position:fixed;
+	overflow:auto;
+	width:100%;
+	top:0;
+	left:0;
+	z-index:1;
+}
+.cont1{
+	padding-top:20px;
+}
